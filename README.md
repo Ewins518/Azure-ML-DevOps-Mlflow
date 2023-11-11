@@ -1,8 +1,8 @@
 # Machine-Learning-on-Azure
 
-![Screenshot](/screenshot/1.png)
+![Screenshot](/screenshot/1.jpg)
 ![Screenshot](/screenshot/2.png)
-![Screenshot](/screenshot/3.png)
+![Screenshot](/screenshot/3.jpg)
 ![Screenshot](/screenshot/33.png)
 ![Screenshot](/screenshot/4.png)
 ![Screenshot](/screenshot/5.png)
